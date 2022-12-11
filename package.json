@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^13.11.0",
+    "github-release-stats": "^1.0.2",
+    "socket.io": "^4.5.4"
+  }
+}
